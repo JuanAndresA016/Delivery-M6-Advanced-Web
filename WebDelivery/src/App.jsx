@@ -9,7 +9,6 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Web Delivery</h1>
       <Router>
         <Navbar />
         <Routes>
