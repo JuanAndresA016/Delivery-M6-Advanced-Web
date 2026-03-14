@@ -26,3 +26,11 @@ Respuesta del backend
 <img width="1900" height="818" alt="image" src="https://github.com/user-attachments/assets/0ce6d6ad-c1b9-449f-ad56-2d9c81c38221" />
 
 la peticion del navegador se puede apreciar arriba de la respuesta del backend, donde se encian los id values de cada opcion seleccionada
+
+
+
+
+
+
+
+El proyecto originalmente estaba dividido mas entre los integrantes, pero a causa de las otras entregas del curso, nos dividimos los entregables y por eso hay pocos cambios de ciertas personas, sin embargo, la logica de como se creo el proyecto fue entendida y diseñada por todos los miembros.
