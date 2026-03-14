@@ -7,10 +7,17 @@
     h1{
         font-size: 30px;
     }
+    
+
+    h2, h3{
+        text-align: start;
+        font-family: "Inter", sans-serif;
+
+    }
     p{
         font-size: 18px;
         text-align: center;
-        font-family: "Inter", sans-serif;;
+        font-family: "Inter", sans-serif;
     }
 
     img{

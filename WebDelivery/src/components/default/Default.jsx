@@ -1,5 +1,6 @@
 import React from "react"
 import NavBar from "../navBar/Navbar"
+import "./Default.css"
 
 export default function Defualt(){
 
@@ -8,7 +9,12 @@ export default function Defualt(){
 
             <NavBar />
 
-            <h1>No se encotró la página</h1>
+            <div className="content">
+                <h1>404</h1>
+                <p>Enclace no válido o no encontrado.</p>
+            </div>
+
+            
         </>
     )
 }
