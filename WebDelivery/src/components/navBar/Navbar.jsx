@@ -10,7 +10,7 @@ export default function NavBar(){
             <nav>
                 <a href="/">Home</a>
                 <a href="/minecraft">Mi Minecraft</a>
-                <a href="">Dashboard</a>
+                <a href="/dashboard">Dashboard</a>
             </nav>
         </header>
         
